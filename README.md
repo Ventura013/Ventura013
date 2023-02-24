@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou procurando uma oportunidade para ingressar na area.
 - 🌱 Estudando com foco em Back End - Spring.
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ventura-41487151/)
+- 📫 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-ventura-41487151/)
 - 😄 Pronouns: ele/dele
 -->
 
